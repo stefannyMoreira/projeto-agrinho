@@ -14,21 +14,21 @@ body {
     padding: 24px 0;
 }
 
-.logo-agrinho.png{
+.cabecalho-imagem{
     width: 10%;
 }
 
-.foto-agronegocio.jpg{
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 16px;
 }
 
-.cemag-cemag.jpg{
+.escola-imagem{
     width: 25%;
 }
 
-.cemag{
+.escola{
     background-image: linear-gradient(#dc2146,#7122a9);
     color:white;
     display: flex;
